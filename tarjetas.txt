@@ -1,0 +1,13 @@
+E  101	201	Sanborns
+C  102  456
+P  103  169	Office Depot
+C  104  402
+P  105  987     Sabritas
+P  106  988     LALA
+P  107  303     Pepe Jeans
+P  108  990     Ricolino
+C  109  457
+C  110  458
+C  111  459
+C  112  460
+C  113  461	
